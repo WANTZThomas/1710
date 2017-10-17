@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+}
+
+.test{
+  background-color: red;
+  color: white;
+  margin: 20px auto;
+  padding: 20px;
+  width: 200px;
+  border: 10px solid #000000;
+  border-radius: 50px;
+}
+.centered{
+  text-align: center;
+}
